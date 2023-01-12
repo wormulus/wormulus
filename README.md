@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @wormulus
-- 👀 I’m interested in machine learning, natural language processing, Python, and data analysis.
-- 🌱 I’m currently learning Pandas
-- 💞️ I’m looking to collaborate on fun projects, especially art ones
+- 👀 I’m interested in machine learning, natural language processing, and data analysis.
+- 🌱 I’m currently learning NLP tools
+- 💞️ I’m looking for challenging and fun projects
 - 📫 How to reach me @wormulus on twitter and @lnicholsart on instagram
 
 <!---
